@@ -42,6 +42,9 @@ Child (Generation 0): blood type AO
         Grandparent (Generation 2): blood type OO
 ```
 
+![image](https://github.com/user-attachments/assets/f04cd3ff-72f6-42e0-9755-fb00bedcdcd9)
+*Shows simulation of genetic inheritance according to a model of a 'family tree' with predetermined input!*  
+
 ## Contributing
 1. Fork the repository.
 2. Create a new branch:
